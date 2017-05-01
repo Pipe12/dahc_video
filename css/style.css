@@ -1,0 +1,28 @@
+body{
+  background-color: #e0e0e0;
+}
+
+header img{
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.team{
+  font-family: "ubuntu",sans-serif;
+}
+
+.name{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.rol{
+  font-style: italic;
+}
+
+.contenedor{
+  max-width: 640px;
+  padding: 20px;
+  margin: auto;
+}
